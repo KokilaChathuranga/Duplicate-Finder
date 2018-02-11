@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71b018f4-118f-4672-9d80-81f6e4b4fee9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/DuplicateFinder.jar" afterPath="$PROJECT_DIR$/output/DuplicateFinder.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/DuplicateFinder.exe" afterPath="$PROJECT_DIR$/output/DuplicateFinder.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/dup/find/FindDuplicatesGUI.class" afterPath="$PROJECT_DIR$/target/classes/com/dup/find/FindDuplicatesGUI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/find-duplicate-1.0-SNAPSHOT-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/target/find-duplicate-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/find-duplicate-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/find-duplicate-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/dup/find/FindDuplicatesGUI.form" afterPath="$PROJECT_DIR$/src/main/java/com/dup/find/FindDuplicatesGUI.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.dup.find.AppTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.dup.find.AppTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.dup.find.AppTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.dup.find.AppTest.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -993,7 +997,7 @@
       <workItem from="1518352654606" duration="2647000" />
       <workItem from="1518355454928" duration="96000" />
       <workItem from="1518355599910" duration="795000" />
-      <workItem from="1518357921337" duration="3001000" />
+      <workItem from="1518357921337" duration="3073000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit 3">
       <created>1518360804858</created>
@@ -1030,11 +1034,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518364828013</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial commit 3">
+      <created>1518365303803</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1518365303803</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121915000" />
+    <option name="totallyTimeSpent" value="121987000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
