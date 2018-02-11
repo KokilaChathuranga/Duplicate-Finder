@@ -22,4 +22,4 @@ platform : Intellij Idea
 
 Build Tools : maven
 
-*Latest .jar and .exe versions are inside the "output" folder
+*Latest .jar and .exe versions are inside the "output" directory.
