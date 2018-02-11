@@ -1,0 +1,3 @@
+1.[C:\Users\Kokila Chathuranga\Desktop\findduplicate\src\TestDuplicate\parent1\child1\test1.txt, C:\Users\Kokila Chathuranga\Desktop\findduplicate\src\TestDuplicate\parent3\child2\test1-copy.txt]
+2.[C:\Users\Kokila Chathuranga\Desktop\findduplicate\src\TestDuplicate\parent1\child2\test2.txt, C:\Users\Kokila Chathuranga\Desktop\findduplicate\src\TestDuplicate\parent2\child2\test2-copy.txt]
+3.[C:\Users\Kokila Chathuranga\Desktop\findduplicate\src\TestDuplicate\parent1\child2\test3.txt, C:\Users\Kokila Chathuranga\Desktop\findduplicate\src\TestDuplicate\parent1\child1\test3.txt, C:\Users\Kokila Chathuranga\Desktop\findduplicate\src\TestDuplicate\parent2\child2\test3.txt]
