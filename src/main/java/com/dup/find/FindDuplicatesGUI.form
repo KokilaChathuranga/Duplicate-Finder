@@ -21,7 +21,7 @@
             </constraints>
             <properties>
               <font name="Consolas" size="16"/>
-              <text value="Result File  :"/>
+              <text value="Results File :"/>
             </properties>
           </component>
           <component id="e7a07" class="javax.swing.JLabel" binding="searchThreadCountLabel">
