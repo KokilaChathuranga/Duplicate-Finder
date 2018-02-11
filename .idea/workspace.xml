@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71b018f4-118f-4672-9d80-81f6e4b4fee9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/find-duplicate-1.0-SNAPSHOT-jar-with-dependencies-v4.jar" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/find-duplicate-1.0-SNAPSHOT-jar-with-dependencies-v4.jar" afterPath="$PROJECT_DIR$/targetbackup/find-duplicate-1.0-SNAPSHOT-jar-with-dependencies-v4.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -54,6 +55,16 @@
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="results.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/results.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -321,6 +332,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="findduplicate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="findduplicate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -436,19 +461,20 @@
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kokila Chathuranga\Desktop\findduplicate\targetbackup" />
+      <recent name="C:\Users\Kokila Chathuranga\Desktop\findduplicate\resources" />
+      <recent name="C:\Users\Kokila Chathuranga\IdeaProjects\findduplicate\.idea" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dup.find" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Kokila Chathuranga\Desktop\findduplicate\resources" />
       <recent name="C:\Users\Kokila Chathuranga\Desktop\findduplicate\src\main\java\com\dup\find" />
       <recent name="C:\Users\Kokila Chathuranga\Desktop\findduplicate\src\main\java\resources" />
       <recent name="C:\Users\Kokila Chathuranga\Desktop\findduplicate\src" />
       <recent name="C:\Users\Kokila Chathuranga\IdeaProjects\findduplicate" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.dup.find" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Kokila Chathuranga\Desktop\findduplicate\resources" />
-      <recent name="C:\Users\Kokila Chathuranga\IdeaProjects\findduplicate\.idea" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -944,7 +970,7 @@
       <workItem from="1518352654606" duration="2647000" />
       <workItem from="1518355454928" duration="96000" />
       <workItem from="1518355599910" duration="795000" />
-      <workItem from="1518357921337" duration="1293000" />
+      <workItem from="1518357921337" duration="1391000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit 3">
       <created>1518360804858</created>
@@ -953,11 +979,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518360804858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit 3">
+      <created>1518360862506</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1518360862506</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120207000" />
+    <option name="totallyTimeSpent" value="120305000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1398,7 +1431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results.txt" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dup/find/FindDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
@@ -1467,6 +1499,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
